@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laibakhalid08" alt="laibakhalid08" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity, System Architecture & UI/UX Frameworks**
+- 🌱 I’m currently learning **System Architecture & UI/UX Frameworks**
 
 - 👯 I’m looking to collaborate on **Architecture Designing Projects**
 
